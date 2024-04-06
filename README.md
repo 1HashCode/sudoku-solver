@@ -1,5 +1,7 @@
 # Sudoku Solver
 
+![image](https://github.com/1HashCode/sudoku-solver/assets/154821339/e2775a19-55c9-4915-9ecf-3ea1412d57c5)
+
 This is a simple Java implementation of a Sudoku solver using a backtracking algorithm.
 Given a partially filled Sudoku grid, the program attempts to fill in all the empty cells such that every row, column, 
 and 3x3 subgrid contains all the digits from 1 to 9 without repetition.
@@ -7,7 +9,6 @@ and 3x3 subgrid contains all the digits from 1 to 9 without repetition.
 ## Table of Contents
 Usage
 Algorithm
-Example
 Contributing
 License
 
@@ -35,3 +36,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
